@@ -1,0 +1,16 @@
+
+
+.home-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #9f6f95;
+}
+
+.bg-img {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    width: 100%;
+    height: 654px;
+   
+}
